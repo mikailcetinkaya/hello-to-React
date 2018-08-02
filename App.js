@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
+    borderColor:"#FF0000",borderWidth:6
   },
   welcome: {
     fontSize: 20,
