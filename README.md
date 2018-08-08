@@ -1,4 +1,4 @@
 # hello-to-React
-Achtung !! React experiencing on the way !!!
+Achtung !! React experiments on the way !!!
 # Features:
 1- LOTTIE :)
